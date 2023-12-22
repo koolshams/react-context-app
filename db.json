@@ -1,0 +1,51 @@
+{
+  "messages": [
+    {
+      "id": "msg-1666960920636",
+      "to": "frodo",
+      "createAt": "2022-10-28T12:42:00.636Z",
+      "content": "The ring must be destroyed"
+    },
+    {
+      "id": "msg-1666962293485",
+      "to": "Sam",
+      "createAt": "2022-10-28T13:04:53.485Z",
+      "content": "Help frodo",
+      "replies": []
+    },
+    {
+      "id": "msg-1666962387236",
+      "to": "Gandalf",
+      "createAt": "2022-10-28T13:06:27.236Z",
+      "content": "Kill the balrog",
+      "replies": []
+    },
+    {
+      "id": "msg-1666963936026",
+      "to": "saruman",
+      "createAt": "2022-10-28T13:32:16.026Z",
+      "content": "Kill fellowship",
+      "replies": []
+    }
+  ],
+  "replies": [
+    {
+      "id": "rep-1666962214213",
+      "messageId": "msg-1666960920636",
+      "createAt": "2022-10-28T13:03:34.213Z",
+      "content": "Hello"
+    },
+    {
+      "id": "rep-1666962220116",
+      "messageId": "msg-1666960920636",
+      "createAt": "2022-10-28T13:03:40.116Z",
+      "content": "I cannot do it"
+    },
+    {
+      "id": "rep-1666962318397",
+      "messageId": "msg-1666962293485",
+      "createAt": "2022-10-28T13:05:18.397Z",
+      "content": "Golum betrayed me"
+    }
+  ]
+}
